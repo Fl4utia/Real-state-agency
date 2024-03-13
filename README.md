@@ -3,7 +3,7 @@
 ## Introduction
 
 This website  is designed to serve as a solution for managing properties and vendors for a real estate agency. It features a sleek and responsive design, along with robust backend functionality powered by PHP and MySQL.
-<div align="center" width="480" height="274">>
+<div align="center" width="480" height="274">
    ![GIF](https://media.giphy.com/media/lgX2xswzXaGGffCsu1/giphy.gif)
 </div>
 ## Features

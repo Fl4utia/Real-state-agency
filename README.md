@@ -8,9 +8,6 @@ This website  is designed to serve as a solution for managing properties and ven
 
 - **Responsive Design**: Ensures optimal viewing across devices.
 - **Database Integration**: Seamlessly integrates with MySQL for data management.
-  
-  
-
 - **CRUD Operations**: Enables easy management of vendors and properties.
 - **User Authentication**: Provides secure access control.
 - **Contact Forms**: Streamlines communication between clients and agents.
@@ -44,4 +41,3 @@ This website  is designed to serve as a solution for managing properties and ven
 
    Once the local development server is running, open your web browser and navigate to the project directory to explore the Real Estate Agency Website.
 
- ![GIF](https://media.giphy.com/media/85WIKqy2JcNQyGicov/giphy.gif)

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This website  is designed to serve as a solution for managing properties and vendors for a real estate agency. It features a sleek and responsive design, along with robust backend functionality powered by PHP and MySQL.
+This website  is designed to serve as a solution for managing properties and vendors for a real estate agency. It features a sleek and responsive design, along with robust backend functionality powered by PHP and MySQL. Check out the video [Demo](https://youtu.be/Kbx5NETOU0c) 
 <p align="center">
   <img src="https://media.giphy.com/media/lgX2xswzXaGGffCsu1/giphy.gif" alt="animated" />
 </p>
@@ -12,9 +12,18 @@ This website  is designed to serve as a solution for managing properties and ven
 - **Responsive Design**: Ensures optimal viewing across devices.
 - **Database Integration**: Seamlessly integrates with MySQL for data management.
 - **CRUD Operations**: Enables easy management of vendors and properties.
+
+<p align="center">
+   <img src="https://i.imgur.com/D51ZARn.png" alt="Image" >
+</p>
+
+
 - **User Authentication**: Provides secure access control.
 - **Contact Forms**: Streamlines communication between clients and agents.
 
+<p align="center">
+   <img src="https://i.imgur.com/GLVUgKt.png" alt="Image" width="70%">
+</p>
 
 ## Technologies Used
 
@@ -46,6 +55,3 @@ This website  is designed to serve as a solution for managing properties and ven
 
    Once the local development server is running, open your web browser and navigate to the project directory to explore the Real Estate Agency Website.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/85WIKqy2JcNQyGicov/giphy.gif" alt="animated" />
-</p>

@@ -6,14 +6,14 @@ This website  is designed to serve as a solution for managing properties and ven
 <p align="center">
   <img src="https://media.giphy.com/media/lgX2xswzXaGGffCsu1/giphy.gif" alt="animated" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/85WIKqy2JcNQyGicov/giphy.gif" alt="animated" />
+</p>
 
 ## Features
 
 - **Responsive Design**: Ensures optimal viewing across devices.
 - **Database Integration**: Seamlessly integrates with MySQL for data management.
-<p align="center">
-  <img src="https://media.giphy.com/media/85WIKqy2JcNQyGicov/giphy.gif" alt="animated" />
-</p>
 - **CRUD Operations**: Enables easy management of vendors and properties.
 - **User Authentication**: Provides secure access control.
 - **Contact Forms**: Streamlines communication between clients and agents.

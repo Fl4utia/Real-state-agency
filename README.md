@@ -8,7 +8,9 @@ This website  is designed to serve as a solution for managing properties and ven
 
 - **Responsive Design**: Ensures optimal viewing across devices.
 - **Database Integration**: Seamlessly integrates with MySQL for data management.
-![GIF](https://media.giphy.com/media/85WIKqy2JcNQyGicov/source.gif)
+  
+   ![GIF](https://media.giphy.com/media/85WIKqy2JcNQyGicov/source.gif)
+
 - **CRUD Operations**: Enables easy management of vendors and properties.
 - **User Authentication**: Provides secure access control.
 - **Contact Forms**: Streamlines communication between clients and agents.

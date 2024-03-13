@@ -6,6 +6,7 @@ This website  is designed to serve as a solution for managing properties and ven
 <p align="center">
   <img src="https://media.giphy.com/media/lgX2xswzXaGGffCsu1/giphy.gif" alt="animated" />
 </p>
+
 ## Features
 
 - **Responsive Design**: Ensures optimal viewing across devices.

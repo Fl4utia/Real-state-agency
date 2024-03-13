@@ -14,6 +14,8 @@ This website  is designed to serve as a solution for managing properties and ven
 - **CRUD Operations**: Enables easy management of vendors and properties.
 - **User Authentication**: Provides secure access control.
 - **Contact Forms**: Streamlines communication between clients and agents.
+
+
 ## Technologies Used
 
 - **Sass**
@@ -44,3 +46,6 @@ This website  is designed to serve as a solution for managing properties and ven
 
    Once the local development server is running, open your web browser and navigate to the project directory to explore the Real Estate Agency Website.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/85WIKqy2JcNQyGicov/giphy.gif" alt="animated" />
+</p>
